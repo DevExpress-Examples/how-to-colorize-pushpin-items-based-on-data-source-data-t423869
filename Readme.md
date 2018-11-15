@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ColorPushpinFactory/Form1.cs) (VB: [Form1.vb](./VB/ColorPushpinFactory/Form1.vb))
+* [Program.cs](./CS/ColorPushpinFactory/Program.cs) (VB: [Program.vb](./VB/ColorPushpinFactory/Program.vb))
+<!-- default file list end -->
 # How to colorize Pushpin items based on data source data 
 
 
